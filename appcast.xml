@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The feed the Mac app checks for updates. release.sh rewrites it; until the first release it
+     lists nothing, so a check simply finds the app up to date. -->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Noki</title>
+  </channel>
+</rss>

@@ -7,12 +7,12 @@
         <item>
             <title>0.1.0</title>
             <pubDate>Sun, 27 Sep 2026 13:46:02 +0900</pubDate>
-            <link>https://uhouho628.github.io/</link>
+            <link>https://noki-app.github.io/</link>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://uhouho628.github.io/downloads/Noki-0.1.0.zip" length="1647865" type="application/octet-stream" sparkle:edSignature="dlqoT2AbZzBQIA1hwMW7l2SMtRSdfNCnj1VecCArcWjm86r+8FqPlVGokndmxNiYMDwXs2W49DgNKFgxEvHoAA=="/>
+            <enclosure url="https://noki-app.github.io/downloads/Noki-0.1.0.zip" length="1647865" type="application/octet-stream" sparkle:edSignature="dlqoT2AbZzBQIA1hwMW7l2SMtRSdfNCnj1VecCArcWjm86r+8FqPlVGokndmxNiYMDwXs2W49DgNKFgxEvHoAA=="/>
         </item>
     </channel>
 </rss>
